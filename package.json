@@ -1,0 +1,23 @@
+{
+  "name": "affront",
+  "version": "1.0.0",
+  "description": "At least that's what it feels like. Everywhere you look, the AI is writing code. The art of thinking through a logic problem through the lens of syntax and craftsmanship seems to be a thing of the past.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsx": "tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egeste/affront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egeste/affront/issues"
+  },
+  "homepage": "https://github.com/egeste/affront#readme",
+  "dependencies": {
+    "tsx": "^4.22.4"
+  }
+}
